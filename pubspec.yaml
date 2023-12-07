@@ -1,5 +1,5 @@
 name: get_user_agent
-description: A starting point for Dart libraries or applications.
+description: Librería para obtener el user agent del navegador.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
